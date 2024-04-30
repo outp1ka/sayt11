@@ -1,0 +1,427 @@
+.frame-1 .vk {
+  margin: 3px 0 1.5px 0;
+  width: 29.8px;
+  height: 19.4px;
+}
+.frame-1 .tele {
+  width: 26.8px;
+  height: 23.8px;
+}
+.frame-1 .soc {
+  margin: 0 0 39.7px 1180px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 86.6px;
+  box-sizing: border-box;
+}
+.frame-1 .internet-1 {
+  background: url('../assets/images/internet1.png') 50% / cover no-repeat;
+  margin: 0 -50px 18px 0;
+  width: 198px;
+  height: 198px;
+}
+.frame-1 .imya-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 100px;
+  color: #DEDEDE;
+}
+.frame-1 .junior {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 25px;
+  color: #DEDEDE;
+}
+.frame-1 .imya {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+  position: relative;
+  margin-right: -50px;
+}
+.frame-1 .shapka {
+  background: #2E2E2E;
+  position: relative;
+  margin-bottom: 111px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 32.5px 0 62px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.frame-1 .fon-opis {
+  position: absolute;
+  left: 53%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1174px;
+  height: 339px;
+}
+.frame-1 .obo-mne-1 {
+  position: relative;
+  margin: 0 5px 39px 430px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 50px;
+  color: #2E2E2E;
+}
+.frame-1 .opisanie {
+  position: relative;
+  align-self: flex-start;
+  text-align: justify;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 25px;
+  letter-spacing: 2.6px;
+  color: #DEDEDE;
+  padding: 1px 370px 1px 370px;
+  line-height: 45px;
+  position: relative;
+  right: -41px;
+
+}
+.frame-1 .obo-mne {
+  position: relative;
+  margin-bottom: 111px;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 0 90px 34px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .moi-raboty-text {
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 50px;
+  color: #2E2E2E;
+}
+.frame-1 .moi-raboty {
+  margin: 0 1084px 37px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-1 .job-11 {
+  box-shadow: 10px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: url('../assets/images/job11.png') 50% / cover no-repeat;
+  margin-bottom: 26px;
+  width: 302px;
+  height: 345px;
+}
+.frame-1 .podrobney-1 {
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 15px;
+  color: #DEDEDE;
+}
+.frame-1 .podrobno-1 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #2E2E2E;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 0 6px 0;
+  width: 207px;
+  box-sizing: border-box;
+}
+.frame-1 .job-1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 302px;
+  box-sizing: border-box;
+}
+.frame-1 .job-22 {
+  box-shadow: 10px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: url('../assets/images/job22.png') 50% / cover no-repeat;
+  margin-bottom: 26px;
+  width: 302px;
+  height: 345px;
+}
+.frame-1 .podrobney-2 {
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 15px;
+  color: #DEDEDE;
+}
+.frame-1 .podrobno-2 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #2E2E2E;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 0 6px 0;
+  width: 207px;
+  box-sizing: border-box;
+}
+.frame-1 .job-2 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 302px;
+  box-sizing: border-box;
+}
+.frame-1 .job-33 {
+  box-shadow: 10px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background: url('../assets/images/job33.png');
+  margin-bottom: 26px;
+  width: 302px;
+  height: 345px;
+}
+.frame-1 .podrobney-3 {
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 15px;
+  color: #DEDEDE;
+}
+.frame-1 .podrobno-3 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 5px;
+  background: #2E2E2E;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 7px 0 6px 0;
+  width: 207px;
+  box-sizing: border-box;
+}
+.frame-1 .job-3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 302px;
+  box-sizing: border-box;
+}
+.frame-1 .moi-raboty-panel {
+  margin-bottom: 111px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 134px;
+  width: 1174px;
+  box-sizing: border-box;
+}
+.frame-1 .graf-text-1 {
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 400;
+  font-size: 50px;
+  color: #2E2E2E;
+}
+.frame-1 .graf-text {
+  margin: 0 900px 37px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  box-sizing: border-box;
+}
+.frame-1 .figma-svgrepo-com-11 {
+  background: url('../assets/images/figmaSvgrepoCom11.png') 50% / cover no-repeat;
+  margin-right: 8px;
+  width: 129px;
+  height: 129px;
+}
+.frame-1 .figma-1 {
+  margin: 13px 0 17px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 700;
+  font-size: 75px;
+  color: #2E2E2E;
+}
+.frame-1 .figma {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 0 50px 0 0;
+  background: #D8D6D6;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 27px 0 24px 0;
+  width: 1065px;
+  box-sizing: border-box;
+}
+.frame-1 .fon-photoshop {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 793px;
+  height: 151px;
+}
+.frame-1 .photoshop-svgrepo-com-11 {
+  background: url('../assets/images/photoshopSvgrepoCom11.png') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 23px;
+  width: 129px;
+  height: 129px;
+}
+.frame-1 .photoshop-1 {
+  position: relative;
+  margin: 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 700;
+  font-size: 75px;
+  color: #2E2E2E;
+}
+.frame-1 .photoshop {
+  position: relative;
+  margin-right: 3px;
+  display: flex;
+  flex-direction: row;
+  padding: 11px 0;
+  width: 793px;
+  box-sizing: border-box;
+}
+.frame-1 .fon-blender {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  position: absolute;
+  left: 50%;
+  top: 0px;
+  translate: -50% 0;
+  width: 1065px;
+  height: 151px;
+}
+.frame-1 .blender-svgrepo-com-11 {
+  background: url('../assets/images/blenderSvgrepoCom11.png') 50% / cover no-repeat;
+  position: relative;
+  margin-right: 31px;
+  width: 129px;
+  height: 129px;
+}
+.frame-1 .blender-1 {
+  position: relative;
+  margin: 15px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 700;
+  font-size: 75px;
+  color: #2E2E2E;
+}
+.frame-1 .blender {
+  position: relative;
+  margin-bottom: 191px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-end;
+  padding: 11px 0 11px 40px;
+  width: 1065px;
+  box-sizing: border-box;
+}
+.frame-1 .telefonnn {
+  margin-bottom: 22px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 700;
+  font-size: 25px;
+  color: #DEDEDE;
+}
+.frame-1 .pochta-2 {
+  margin: 0 2px 22px 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 700;
+  font-size: 25px;
+  color: #DEDEDE;
+}
+.frame-1 .pochta-1 {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'JetBrains Mono';
+  font-weight: 700;
+  font-size: 25px;
+  color: #DEDEDE;
+}
+.frame-1 .telefon {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-1 .vector {
+  width: 29.8px;
+  height: 19.4px;
+}
+.frame-1 .vk-1 {
+  margin: 3px 0 1.5px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 29.8px;
+  height: 19.4px;
+  box-sizing: border-box;
+}
+.frame-1 .vector-1 {
+  width: 26.8px;
+  height: 23.8px;
+}
+.frame-1 .tele-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 26.8px;
+  height: 23.8px;
+  box-sizing: border-box;
+}
+.frame-1 .soc-2 {
+  margin: 117.5px 0 1.7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 86.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.frame-1 .container {
+  background: #2E2E2E;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 75px 0 89px 0;
+  width: 1920px;
+  box-sizing: border-box;
+}
+.frame-1 {
+  background: #DEDEDE;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1920px;
+  position: relative;
+  top: -8px;
+  left: -64px;
+}
